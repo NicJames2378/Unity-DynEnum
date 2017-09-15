@@ -1,6 +1,9 @@
 # Unity-DynEnum
 A simple Unity extension to allow modification of Enums for ease of game creation.
 
+Imgur: [https://imgur.com/a/mt5kp](https://imgur.com/a/mt5kp)
+
+
 
 To use: 
 
